@@ -1,0 +1,17 @@
+*.sqlite3
+local.py
+/media/
+/static/
+node_modules
+__pycache__
+*.pyc
+*.pyo
+coverage
+.*
+*~
+*.swp
+*.tar
+*.gz
+*.bz2
+*.rar
+*.zip
